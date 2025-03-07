@@ -17,4 +17,4 @@ Criei um tradutor com interface gráfica usando Tkinter e TtkBootstrap para um d
 
 📂 Arquivos:
 - [`script`](https://github.com/tomaziu/tradutor_com_tkinter/blob/main/app.py)
-- [`tradutor.exe`]()
+- [`tradutor.exe`](https://github.com/tomaziu/tradutor_com_tkinter/blob/main/app.exe)
