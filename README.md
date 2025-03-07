@@ -1,0 +1,1 @@
+# tradutor_com_tkinter
