@@ -7,7 +7,6 @@ Criei um tradutor com interface gráfica usando Tkinter e TtkBootstrap para um d
 - Exibição da tradução na interface  
 - Interface estilizada com TtkBootstrap  
 
-🖼️ **Adicionadas imagens do tradutor** para visualizar a interface final.
 ![Captura de tela 2025-03-07 165831](https://github.com/user-attachments/assets/dc3ea61b-73d4-441b-b7cb-fb519b7e57a7)
 
 🔧 **Bibliotecas utilizadas:**  
